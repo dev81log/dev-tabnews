@@ -1,0 +1,16 @@
+{
+  "name": "dev-tabnews",
+  "version": "1.0.0",
+  "description": "Sinc Bem-vindo ao **Dev-Tabnews**! 🚀   Este projeto é uma implementação baseada no [Tabnews](https://www.tabnews.com.br/), e tem como objetivo consolidar o aprendizado adquirido no curso [Curso.dev](https://curso.dev/).",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
