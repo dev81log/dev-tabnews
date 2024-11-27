@@ -1,9 +1,10 @@
 # Dev-Tabnews
 
+Sinc
 Bem-vindo ao **Dev-Tabnews**! 🚀  
 Este projeto é uma implementação baseada no [Tabnews](https://www.tabnews.com.br/), e tem como objetivo consolidar o aprendizado adquirido no curso [Curso.dev](https://curso.dev/).
 
-## Sobre o Projeto
+## Sobre o Projetos
 
 O **Dev-Tabnews** é uma plataforma que permite a criação, organização e compartilhamento de conteúdos voltados para tecnologia e desenvolvimento de software. Inspirado no Tabnews, este projeto visa oferecer uma experiência simples, porém poderosa, para desenvolvedores que desejam compartilhar conhecimento ou se manter atualizados sobre o mercado.
 
