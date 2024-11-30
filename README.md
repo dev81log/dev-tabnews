@@ -60,4 +60,3 @@ Como o foco principal é o aprendizado, as contribuições externas estão desat
 ---
 
 **Dev-Tabnews** é um projeto de estudo e evolução. Cada linha de código escrita aqui representa mais um passo no meu aprendizado e na jornada para me tornar um desenvolvedor ainda melhor. Agradeço ao **Curso.dev** e à comunidade de tecnologia pelo suporte e inspiração. 💻💡
-
